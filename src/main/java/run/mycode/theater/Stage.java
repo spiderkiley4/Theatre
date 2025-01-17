@@ -185,7 +185,7 @@ public class Stage extends JFrame {
         stage.setLayout(new BorderLayout(0, 0));
         stage.setBackground(new Color(-16777216));
         stage.setDoubleBuffered(false);
-        stage.setMaximumSize(new Dimension(400, 400));
+        stage.setMaximumSize(new Dimension(1920, 1080));
         stage.setMinimumSize(new Dimension(400, 400));
         stage.setPreferredSize(new Dimension(400, 400));
         contentPane.add(stage, BorderLayout.CENTER);
